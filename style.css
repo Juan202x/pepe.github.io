@@ -1,8 +1,16 @@
+* {
+  text-align: center;
+  margin: auto;
+  background-color: pink;
+  color: white;
+  font-family: Helvetica;
+}
+
 footer {
   position: sticky;
   text-align: center;
   padding: 5px 5px;
   font-family: Helvetica;
   bottom: 0px;
-  color: brown;
+  color: yellow;
 }
