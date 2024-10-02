@@ -6,7 +6,14 @@ head {
   color: white;
   font-family: Helvetica;
 }
-
+body {
+  text-align: center;
+  color: white;
+  font-family: Helvetica;
+}
+img {
+  margin: auto;
+}
 footer {
   position: sticky;
   text-align: center;
