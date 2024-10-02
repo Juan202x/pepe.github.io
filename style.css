@@ -1,7 +1,8 @@
 * {
-  text-align: center;
-  margin: auto;
   background-color: pink;
+}
+head {
+  text-align: center;
   color: white;
   font-family: Helvetica;
 }
